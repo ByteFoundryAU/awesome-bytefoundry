@@ -154,16 +154,16 @@ see https://wiki.debian.org/UnattendedUpgrades
 
 This is a simple daemon to feed a system watchdog.
 In the `/etc/watchdog.conf` but at least...
-<pre>watchdog-device ` /dev/watchdog
-realtime ` yes
-priority ` 1
+<pre>watchdog-device = /dev/watchdog
+realtime = yes
+priority = 1
 </pre>
 
 You can also do ICMP pings, regular file changes (use with syslog marks), system load, temperature sensors and others
 By default things happen every second, this can be dialed back as needed.
 
 Softdog can be used if no hardware watchdog is available, either way you can have watchdog load the module by setting it in `/etc/default/watchdog`
-<pre>watchdog_module`"softdog"
+<pre>watchdog_module="softdog"
 </pre>
 
 ### zopfli
@@ -176,8 +176,8 @@ pipe to X windows clipboard
 
 In your `.bashrc` / `.bash_aliases`, put:
 
-<pre>alias setclip`'xclip -selection c'
-alias getclip`'xclip -selection clipboard -o'</pre>
+<pre>alias setclip='xclip -selection c'
+alias getclip='xclip -selection clipboard -o'</pre>
 
 You can now use *setclip* and *getclip*, e.g:
 
