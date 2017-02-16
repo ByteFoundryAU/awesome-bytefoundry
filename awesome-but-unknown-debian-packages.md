@@ -29,7 +29,7 @@ control max cpu usage of a process
 
 ### deborphan
 
-finds and helps remove 'orphaned' packages and config files 
+finds and helps remove 'orphaned' packages and config files
 
    * `orphaner` with no options looks for anything apt considers a library
    * `orphaner --find-config` looks for left over config files from removed packages
@@ -74,10 +74,10 @@ gdebi local-file.deb
 
 ### haveged
 
-Unless you have a specific reason to not trust any hardware random number generator on your system, you should try to use them with the rng-tools first and if it turns out not to be enough (or if you do not have a hardware random number generator available), then use Haveged. 
+Unless you have a specific reason to not trust any hardware random number generator on your system, you should try to use them with the rng-tools first and if it turns out not to be enough (or if you do not have a hardware random number generator available), then use Haveged.
 
 Run:
-<verbatim>cat /proc/sys/kernel/random/entropy_avail</verbatim>
+`cat /proc/sys/kernel/random/entropy_avail`
 
 Values &lt; 1000 indicate low entropy and cryptographic applications will block until there is enough entropy available, which eg. could result in slow wlan speed (for WAP)
 
@@ -85,9 +85,9 @@ Values &lt; 1000 indicate low entropy and cryptographic applications will block 
 
 As the name implies.
 
-Use the following to save: <pre>invoke-rc.d iptables-persistent save</pre> 
+Use the following to save: <pre>invoke-rc.d iptables-persistent save</pre>
 
-### jq 
+### jq
 
 command like json processing
 
@@ -186,7 +186,7 @@ $ getclip
 foo</pre>
 
 
-## Stuff to delete 
+## Stuff to delete
 
    * mlocate
    * durep
