@@ -3,21 +3,26 @@
 ## See also
 
    * https://wiki.debian.org/SimplePowerSave
-## Stuff to add
 
-### apt-dater
-
-does apt-get updates (etc) en mass
+## The List
 
 ### adjtimex
 
 actually reduce/stop clock drift, rather than having ntp constantly tweaking the system time
+
+### apt-dater
+
+does apt-get updates (etc) en mass
 
 ### apticron
 
 emails you a list of packages to be updated.
 
 configure via `/etc/apt/listchanges.conf`
+
+### automysqlbackup / autopostgresqlbackup
+
+nightly backups or mysql / postgresql made insanely easy. no excuses
 
 ### console-log
 
