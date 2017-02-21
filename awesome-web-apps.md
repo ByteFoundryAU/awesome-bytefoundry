@@ -1,5 +1,9 @@
 # Awesome (ostensibly) Web Applications
 
+**Nothing on this list is an endorsement**
+
+Some links are referrer links, BF will make a few cents if you sign up.
+
 ## Automation | Social Media
 
 http://buffer.com - Post to all your social media at once, also scheduling and link tracking
@@ -110,7 +114,7 @@ https://toggl.com - Time tracking with billing
 
 https://waffle.io/ - Project management based on GitHub issues &amp; PR's
 
-http://Smartsheet.com - Collaborative working platform
+http://smartsheet.com - Collaborative working platform
 
 ## Remote Desktop
 
