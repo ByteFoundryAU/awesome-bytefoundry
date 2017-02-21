@@ -26,13 +26,17 @@ https://ifttt.com/ - e.g. save photos youre tagged in on fb to drop box, update 
 
 ## Accounting
 
-Zipbooks.com
-Https://www.avaza.com/
+http://zipbooks.com
 
+https://www.avaza.com/
+
+## Backups
+
+https://www.backblaze.com/partner/af4586 - The ultimate online backup for personal or business, Mac &amp; PC
 
 ## Budgeting
 
-Https://www.mint.com/
+https://www.mint.com/
 
 ## CRM
 
@@ -56,29 +60,33 @@ https://app.moqups.com/
 
 ## Email
 
-Netomail.com.au
-Fastmail.fm
+http://netomail.com.au
+
+http://fastmail.fm
 
 ## Communications | Team Chat
 
-Https://slack.com/
+https://slack.com/
 
 ## Communications | Customer Chat
 
-Tawk.to
+http://tawk.to
 
 https://www.intercom.com/in-app-messaging - "The best way to talk directly to your customers in your product and on your website."
 
 ## Get Things Done / TODO Lists
 
-Http://www.any.do/
-Https://todoist.com/
-Https://workflowy.com/
-Https://trello.com/
+http://www.any.do/
+
+https://todoist.com/
+
+https://workflowy.com/
+
+https://trello.com/
 
 ## Image Creation / Editing
 
-Canva com
+http://canva.com
 
 ## Online Stores
 
@@ -86,7 +94,7 @@ https://www.neto.com.au
 
 ## Payments
 
-Stripe.com
+http://stripe.com
 
 https://venmo.com - "Send money and make purchases". Like PayPal.
 
@@ -120,7 +128,7 @@ http://deputy.com/
 
 ## Time Tracking
 
-Http://idonethis.com/
+http://idonethis.com/
 
 ## Other
 
