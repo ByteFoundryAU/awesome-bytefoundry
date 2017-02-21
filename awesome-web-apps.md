@@ -60,9 +60,11 @@ https://app.moqups.com/
 
 ## Email
 
-http://netomail.com.au
-
 http://fastmail.fm
+
+## Email Marketing
+
+http://netomail.com.au
 
 ## Communications | Team Chat
 
