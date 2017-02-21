@@ -1,4 +1,4 @@
-# Awesome (ostensibly) Web Applications
+# (Ostensibly) Awesome Web Applications
 
 **Nothing on this list is an endorsement**
 
