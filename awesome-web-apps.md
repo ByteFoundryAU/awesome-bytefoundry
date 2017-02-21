@@ -130,7 +130,7 @@ http://deputy.com/
 
 ## Time Tracking
 
-http://idonethis.com/
+http://idonethis.com/ - Emails the team daily asking what they did, collates their replies into daily reports
 
 ## Other
 
