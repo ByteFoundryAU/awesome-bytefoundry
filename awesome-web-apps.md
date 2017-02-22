@@ -74,11 +74,17 @@ http://netomail.com.au
 
 https://slack.com/
 
-## Communications | Customer Chat
+## Communications | Customer Text Chat
 
 http://tawk.to
 
 https://www.intercom.com/in-app-messaging - "The best way to talk directly to your customers in your product and on your website."
+
+## Communications | Video Chat
+
+https://appear.in - No software, no log ins. Just send an invite link, the recipient clicks the link and the chat starts
+
+https://www.join.me - Video chat meetings. The meeting host needs an account. No software required.
 
 ## Get Things Done / TODO Lists
 
