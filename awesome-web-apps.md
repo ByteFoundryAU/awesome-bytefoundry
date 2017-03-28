@@ -86,6 +86,12 @@ https://appear.in - No software, no log ins. Just send an invite link, the recip
 
 https://www.join.me - Video chat meetings. The meeting host needs an account. No software required.
 
+https://www.bluejeans.com/ - Interactive, two-way video for teams of any size
+
+## Communications | Screen Sharing
+
+https://screenhero.com/
+
 ## Get Things Done / TODO Lists
 
 http://www.any.do/
