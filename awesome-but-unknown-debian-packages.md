@@ -3,6 +3,7 @@
 ## See also
 
    * https://wiki.debian.org/SimplePowerSave
+   * https://wiki.debian.org/ReduceDebian
 
 ## The List
 
