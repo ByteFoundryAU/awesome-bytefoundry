@@ -1,0 +1,19 @@
+
+
+// Enable tracking protection:
+    // Shady advertisers won't honor these settings, so make sure you use Privacy Badger, Disconnect, or similar addons.
+user_pref("privacy.donottrackheader.enabled", true);
+user_pref("privacy.donottrackheader.value", 1);
+user_pref("privacy.trackingprotection.enabled", true);
+
+// Prevent sites from sniffing clipboard content:
+    // https://developer.mozilla.org/en-US/docs/Mozilla/Preferences/Preference_reference/dom.event.clipboardevents.enabled
+user_pref("dom.event.clipboardevents.enabled", false);
+
+// Disable HTML5 video stats:
+    // https://bugzilla.mozilla.org/show_bug.cgi?id=654550
+user_pref("media.video_stats.enabled", false);
+
+See also https://github.com/dfkt/firefox-tweaks/blob/master/user.js
+https://gist.github.com/bamanzi/2921306
+http://www.makeuseof.com/tag/speed-up-firefox-immediately-with-these-6-simple-tweaks/
