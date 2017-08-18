@@ -12,6 +12,10 @@ https://www.quuu.co/ - "Hand curated suggestions for social media"
 
 https://meetedgar.com/
 
+## Automation | Ebay
+
+http://www.gixen.com - Makes ebay sniping bids and stuff
+
 ## Automation | Email
 
 https://www.rebump.cc - Follows up on emails when no reply is recieved
