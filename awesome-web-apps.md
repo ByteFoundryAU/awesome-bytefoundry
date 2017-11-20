@@ -146,6 +146,10 @@ http://anydesk.com
 
 https://reportgarden.com/ - "ReportGarden is an easy way to group PPC, SEO & Social accounts into one client report. Save time, Impress clients!"
 
+## Scanning
+
+https://www.naps2.com - Not Another PDF Scanner 2. Windows software, free and open source.
+
 ## Shipping &amp; Freight
 
 https://www.aftership.com/
