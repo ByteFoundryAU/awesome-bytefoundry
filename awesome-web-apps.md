@@ -150,6 +150,8 @@ https://reportgarden.com/ - "ReportGarden is an easy way to group PPC, SEO & Soc
 
 https://www.naps2.com - Not Another PDF Scanner 2. Windows software, free and open source.
 
+https://www.hamrick.com/ - VueScan. Windows, Linux &amp; MacOS. Cheap, but not free.
+
 ## Shipping &amp; Freight
 
 https://www.aftership.com/
