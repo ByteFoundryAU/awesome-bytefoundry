@@ -146,11 +146,13 @@ http://anydesk.com
 
 https://reportgarden.com/ - "ReportGarden is an easy way to group PPC, SEO & Social accounts into one client report. Save time, Impress clients!"
 
-## Scanning
+## Scanning Images / Documents
 
 https://www.naps2.com - Not Another PDF Scanner 2. Windows software, free and open source.
 
 https://www.hamrick.com/ - VueScan. Windows, Linux &amp; MacOS. Cheap, but not free.
+
+http://exactscan.com/ - ExactSCAN. MacOS, Windows &amp; Linux. Looks great, not that expensive. 14 day trial
 
 ## Shipping &amp; Freight
 
