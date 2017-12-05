@@ -66,6 +66,14 @@ http://draw.io
 
 https://app.moqups.com/
 
+## Document Management
+
+https://www.folderit.com/ - Cloud Doc Management, Workflows, Version Control etc.
+
+https://www.efilecabinet.com - Cloud or on Premise, as above plus Client Sharing, Office integration.
+
+See also Scanning
+
 ## Email
 
 http://fastmail.fm
