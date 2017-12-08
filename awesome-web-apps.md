@@ -108,6 +108,10 @@ https://screenhero.com/
 
 https://pushover.net/ - Send push messages to iphone, android etc
 
+## File Managers (not web based)
+
+http://www.ghisler.com/ - Total Commander. Works on every Windows, quite cheap.
+
 ## Get Things Done / TODO Lists
 
 http://www.any.do/
@@ -154,7 +158,7 @@ http://anydesk.com
 
 https://reportgarden.com/ - "ReportGarden is an easy way to group PPC, SEO & Social accounts into one client report. Save time, Impress clients!"
 
-## Scanning Images / Documents
+## Scanning Images / Documents (not web based)
 
 https://www.naps2.com - Not Another PDF Scanner 2. Windows software, free and open source.
 
