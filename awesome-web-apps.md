@@ -112,6 +112,8 @@ https://pushover.net/ - Send push messages to iphone, android etc
 
 http://www.ghisler.com/ - Total Commander. Works on every Windows, quite cheap.
 
+http://binarynights.com/forklift/ - ForkLift. For macOS, quite cheap.
+
 ## Get Things Done / TODO Lists
 
 http://www.any.do/
