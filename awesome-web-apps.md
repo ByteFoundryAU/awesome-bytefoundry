@@ -110,6 +110,8 @@ https://pushover.net/ - Send push messages to iphone, android etc
 
 ## File Managers (not web based)
 
+https://doublecmd.sourceforge.io/ - Double Commander. Runs on Windows, Linux &amp; macOS. Free Open-Source.
+
 http://www.ghisler.com/ - Total Commander. Works on every Windows, quite cheap.
 
 http://binarynights.com/forklift/ - ForkLift. For macOS, quite cheap.
