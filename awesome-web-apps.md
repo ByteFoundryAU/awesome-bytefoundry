@@ -56,9 +56,11 @@ https://www.insightly.com/ - Free for up to 2 users (02/17)
 
 http://rapportive.com/ - Adds LinkedIn details to your Gmail Interface
 
-https://www.plaxo.com/ - Cloud contact management, which is automatically updated for you
+https://www.plaxo.com/ - Cloud contact management, which is automatically updated for you (discontinued)
 
 https://whoscall.com/en-US/ - Global phonebook
+
+https://pobu.ca/ - Team Contact management. Cloud based. Extremely cheap.
 
 ## Diagrams
 
