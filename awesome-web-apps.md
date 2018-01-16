@@ -84,6 +84,10 @@ http://fastmail.fm
 
 http://netomail.com.au
 
+## Fax
+
+http://www.fax2.com.au - Send & Recieve Faxes in Australia (paid)
+
 ## Communications | Team Chat
 
 https://slack.com/
