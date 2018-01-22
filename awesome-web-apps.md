@@ -10,7 +10,7 @@ http://buffer.com - Post to all your social media at once, also scheduling and l
 
 https://www.quuu.co/ - "Hand curated suggestions for social media"
 
-https://meetedgar.com/
+https://meetedgar.com/ - Meet Edgar: The Social Media Queue That Fills Itself
 
 ## Automation | Ebay
 
@@ -63,6 +63,12 @@ https://www.plaxo.com/ - Cloud contact management, which is automatically update
 https://whoscall.com/en-US/ - Global phonebook
 
 https://pobu.ca/ - Team Contact management. Cloud based. Extremely cheap.
+
+## Database
+
+https://airtable.com/ - Database-Spreadsheet Hybrid
+
+https://fieldbook.com/ - Database-Spreadsheet Hybrid
 
 ## Diagrams
 
