@@ -198,4 +198,4 @@ http://idonethis.com/ - Emails the team daily asking what they did, collates the
 
 ## Other
 
-
+http://cozy.io - Personal finance, photos and documents cloud
