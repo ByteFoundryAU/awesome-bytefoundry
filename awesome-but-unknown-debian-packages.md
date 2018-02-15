@@ -49,8 +49,6 @@ finds and helps remove 'orphaned' packages and config files
 
 (surprise! apt doesnt remove config files when it removes packages, remove with --purge to clean them. i.e. `apt-get --purge remove foo` )
 
-
-
 ### dhcpdump
 
 Like tcpdump, but knows all about dhcp
@@ -62,6 +60,10 @@ convenient way to disk size, partitions, format, uuid etc etc
 ### dstat
 
 vmstat, iostat and ifstat all in one... with color!
+
+### debsums
+
+Check MD5's of files against what they were in the .deb file when installed
 
 ### eatmydata
 
