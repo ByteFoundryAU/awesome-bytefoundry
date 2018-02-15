@@ -33,6 +33,12 @@ puts exim and system logs out on tty7 and tty8 so if things crash you can see th
 
 control max cpu usage of a process
 
+### debian-goodies
+
+   * `checkrestart` - what needs to be restarted since packages were upgradedA
+   * `dpigs` - which packages are using the most space
+   * `which-pkg-broke` - find which package might have broken another
+
 ### deborphan
 
 finds and helps remove 'orphaned' packages and config files
