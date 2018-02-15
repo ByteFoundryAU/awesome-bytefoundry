@@ -65,6 +65,9 @@ vmstat, iostat and ifstat all in one... with color!
 
 Check MD5's of files against what they were in the .deb file when installed
 
+    * `debsums --changed` - reports only changed files
+    * `debsums --changed --config` - reports only changed config files
+
 ### eatmydata
 
 Disables fsync, so programs that ask to sync data to disk only think they have. Dangerous as important data can be lost, but can improve performance.
