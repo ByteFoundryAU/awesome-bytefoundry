@@ -58,6 +58,8 @@ http://www.contactually.com/
 
 https://www.insightly.com/ - Free for up to 2 users (02/17)
 
+https://capsulecrm.com/ - Free for 2 users (04/18)
+
 ## CRM / Contacts Management
 
 http://rapportive.com/ - Adds LinkedIn details to your Gmail Interface
