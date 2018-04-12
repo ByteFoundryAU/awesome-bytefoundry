@@ -40,6 +40,10 @@ https://www.avaza.com/
 
 https://www.saasu.com - Cheaper than Xero, with similar features
 
+## Accounting | Invoices
+
+https://invoiceplane.com/ - Open source, self hosting
+
 ## Backups
 
 https://www.backblaze.com/partner/af4586 - The ultimate online backup for personal or business, Mac &amp; PC
@@ -199,3 +203,7 @@ http://idonethis.com/ - Emails the team daily asking what they did, collates the
 ## Other
 
 http://cozy.io - Personal finance, photos and documents cloud
+
+## Other | Lists of Apps
+
+https://alternativeto.net/list/2384/want-to-start-your-business-these-software-will-make-your-life-easier-
