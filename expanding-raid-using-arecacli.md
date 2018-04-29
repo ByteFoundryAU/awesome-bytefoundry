@@ -16,7 +16,7 @@ Now type `rsf info` and check that your raid array is *healthy*, that is that th
 ## Step 2
 From the two info commands in Step 1 you will know the raid set number (left most column of the info output) and the disk number (again, the number in the left most column of the info output). We can now expand the raid set with the following command:
 <pre>rsf expand raid=1 drv=13</pre>
-Noting that *raid=1* refers to the raid set not the raid level! So where I have `raid=1` you should use the raid set number on your local machine that we found in Step 1, and similarly where i have `drv=13` you should use your disk number. If you run `rsf info` again, you will see that the *State* is now *Migrating*. This will take some time and you can see the progress as a percentage with `vsf info`. You can speed it along considerably by increasing the background task priority with `sys changept p=3`, remember to set that back to `1 (Low)` when you're done.
+Noting that `raid=1` refers to the raid set not the raid level! So where I have `raid=1` you should use the raid set number on your local machine that we found in Step 1, and similarly where i have `drv=13` you should use your disk number. If you run `rsf info` again, you will see that the *State* is now *Migrating*. This will take some time and you can see the progress as a percentage with `vsf info`. You can speed it along considerably by increasing the background task priority with `sys changept p=3`, remember to set that back to *1 (Low)* when you're done.
 
 ## Step 3
 Expand the volume set (more details here)
