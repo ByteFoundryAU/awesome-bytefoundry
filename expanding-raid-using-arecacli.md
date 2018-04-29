@@ -11,6 +11,8 @@ Plug in a new drive. Ideally it should be the same as the other drives in the ca
 <pre># ./arecacli
 # set password=0000
 </pre>
+All commands hereafter are refering to commands within the arecacli prompt.
+
 Now type `rsf info` and check that your raid array is *healthy*, that is that the *State* is *Normal*. Then check that the new disk is present with `disk info`. If your raid array isn't optimal and the new disk isn't present... well go fix it :) The new disk should have a *Usage* of *Free*.
 
 ## Step 2
@@ -25,7 +27,7 @@ Once the raid set migration has completed (this will take a long time) you can n
 <pre>vsf info</pre>
 Assuming you had a capacity of 26000G and are adding a 2T disk (i.e 2000G), you would now modify the volume with the larger capacity as follows:
 <pre>vsf modify vol=1 capacity=28000</pre>
-This will take some time, but considerably less time than the raid expansion.
+This will take some time, but considerably less time than the raid expansion. Monitor progress with the `vsf info` command.
 
 Alternatively you could create a new volume - which would present to the OS as a second disk - using `vsf create...`
 
