@@ -18,10 +18,17 @@ From the two info commands in Step 1 you will know the raid set number (left mos
 <pre>rsf expand raid=1 drv=13</pre>
 Noting that `raid=1` refers to the raid set not the raid level! So where I have `raid=1` you should use the raid set number on your local machine that we found in Step 1, and similarly where i have `drv=13` you should use your disk number. If you run `rsf info` again, you will see that the *State* is now *Migrating*. This will take some time and you can see the progress as a percentage with `vsf info`. You can speed it along considerably by increasing the background task priority with `sys changept p=3`, remember to set that back to *1 (Low)* when you're done.
 
+It does take some time (days), but it can continue if you shut down the computer and you can continue to use the file-system while its expanding (albeit more slowly)
+
 ## Step 3
-Expand the volume set (more details here)
+Once the raid set migration has completed (this will take a long time) you can now expand the volume and add space to it. Run the following command and note the volume id and capacity.
+<pre>vsf info</pre>
+Assuming you had a capacity of 26000G and are adding a 2T disk (i.e 2000G), you would now modify the volume with the larger capacity as follows:
+<pre>vsf modify vol=1 capacity=28000</pre>
+This will take some time, but considerably less time than the raid expansion.
+
+Alternatively you could create a new volume - which would present to the OS as a second disk - using `vsf create...`
 
 ## Step 4
 Expand the partition and filesystem. This is specific to your operating system. I won't provide details here except to say that in FreeBSD one uses the `growfs` command, and if you formatted the drive raw rather than slicing/partitioning it (yes you can do that in FreeBSD) then there is no need to worry about enlarging the slice/partition.
 
-It does take some time (days), but it can continue if you shut down the computer and you can continue to use the file-system while its expanding (albeit more slowly)
