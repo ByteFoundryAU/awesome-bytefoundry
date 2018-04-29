@@ -42,6 +42,10 @@ https://www.saasu.com - Cheaper than Xero, with similar features
 
 http://rounded.com.au - Invoicing, time and expense tracking, fo Aussies
 
+## Accounting | Invoices
+
+https://invoiceplane.com/ - Open source, self hosting
+
 ## Backups
 
 https://www.backblaze.com/partner/af4586 - The ultimate online backup for personal or business, Mac &amp; PC
@@ -55,6 +59,8 @@ https://www.mint.com/
 http://www.contactually.com/
 
 https://www.insightly.com/ - Free for up to 2 users (02/17)
+
+https://capsulecrm.com/ - Free for 2 users (04/18)
 
 ## CRM / Contacts Management
 
@@ -200,4 +206,8 @@ http://idonethis.com/ - Emails the team daily asking what they did, collates the
 
 ## Other
 
+http://cozy.io - Personal finance, photos and documents cloud
 
+## Other | Lists of Apps
+
+https://alternativeto.net/list/2384/want-to-start-your-business-these-software-will-make-your-life-easier-

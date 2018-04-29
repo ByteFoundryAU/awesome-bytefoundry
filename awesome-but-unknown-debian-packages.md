@@ -33,6 +33,12 @@ puts exim and system logs out on tty7 and tty8 so if things crash you can see th
 
 control max cpu usage of a process
 
+### debian-goodies
+
+   * `checkrestart` - what needs to be restarted since packages were upgradedA
+   * `dpigs` - which packages are using the most space
+   * `which-pkg-broke` - find which package might have broken another
+
 ### deborphan
 
 finds and helps remove 'orphaned' packages and config files
@@ -42,8 +48,6 @@ finds and helps remove 'orphaned' packages and config files
    * `orphaner --help` does what you would imagine
 
 (surprise! apt doesnt remove config files when it removes packages, remove with --purge to clean them. i.e. `apt-get --purge remove foo` )
-
-
 
 ### dhcpdump
 
@@ -56,6 +60,13 @@ convenient way to disk size, partitions, format, uuid etc etc
 ### dstat
 
 vmstat, iostat and ifstat all in one... with color!
+
+### debsums
+
+Check MD5's of files against what they were in the .deb file when installed
+
+    * `debsums --changed` - reports only changed files
+    * `debsums --changed --config` - reports only changed config files
 
 ### eatmydata
 
