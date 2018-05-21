@@ -128,6 +128,10 @@ useful alternative to 'traceroute' - keeps updating in real time
 
 runs commands in parallel. can do quite insane stuff.
 
+### pigz
+
+Multi-processor gzip
+
 ### pv
 
 Like `cat` but gives you a % of how far through the pipe things are
