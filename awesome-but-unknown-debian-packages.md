@@ -104,6 +104,10 @@ As the name implies.
 
 Use the following to save: <pre>invoke-rc.d iptables-persistent save</pre>
 
+### pigz
+
+multi-processor gzip
+
 ### jq
 
 command like json processing

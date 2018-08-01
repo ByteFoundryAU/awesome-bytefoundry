@@ -66,7 +66,7 @@ https://capsulecrm.com/ - Free for 2 users (04/18)
 
 http://rapportive.com/ - Adds LinkedIn details to your Gmail Interface
 
-https://www.plaxo.com/ - Cloud contact management, which is automatically updated for you (discontinued)
+(closed) https://www.plaxo.com/ - Cloud contact management, which is automatically updated for you (discontinued)
 
 https://whoscall.com/en-US/ - Global phonebook
 
@@ -78,7 +78,9 @@ https://fullcontact.com/ - Team contact management, team sharing. Free tier.
 
 https://airtable.com/ - Database-Spreadsheet Hybrid
 
-https://fieldbook.com/ - Database-Spreadsheet Hybrid
+(closed) https://fieldbook.com/ - Database-Spreadsheet Hybrid
+
+https://coda.io/ - Similar to the above
 
 ## Diagrams
 
@@ -112,7 +114,7 @@ https://slack.com/
 
 ## Communications | Customer Text Chat
 
-http://tawk.to
+http://tawk.to - Website chat thingy
 
 https://www.intercom.com/in-app-messaging - "The best way to talk directly to your customers in your product and on your website."
 
