@@ -104,6 +104,10 @@ As the name implies.
 
 Use the following to save: <pre>invoke-rc.d iptables-persistent save</pre>
 
+### nethogs
+
+Lists network traffic by process / program
+
 ### pigz
 
 multi-processor gzip
