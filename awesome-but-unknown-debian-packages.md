@@ -156,6 +156,10 @@ Probably what you want rather than netcat attached to xinetd
 
 Keeps random working well.
 
+### rssh or rush
+
+Both are shells that allow users to be restricted to perform minimal functions.
+
 ### safe-rm
 
 Stops you doing bad stuff like `rm -rf /`
