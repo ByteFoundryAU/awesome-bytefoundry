@@ -136,6 +136,10 @@ wraps reboot and halt, so that you dont run them on ssh accidentally
 
 useful alternative to 'traceroute' - keeps updating in real time
 
+### nield
+
+receive notifications from kernel through netlink socket and generate logs related to NIC interfaces
+
 ### parallel
 
 runs commands in parallel. can do quite insane stuff.
