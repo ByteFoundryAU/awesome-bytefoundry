@@ -176,6 +176,8 @@ https://asana.com - "Asana is the easiest way for teams to track their work—an
 
 https://toggl.com - Time tracking with billing
 
+https://letsfreckle.com/ - Time tracking for teams with invocing
+
 https://waffle.io/ - Project management based on GitHub issues &amp; PR's
 
 http://smartsheet.com - Collaborative working platform
