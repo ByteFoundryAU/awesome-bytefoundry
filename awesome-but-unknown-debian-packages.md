@@ -124,7 +124,7 @@ unlocks your ssh key if the password is the same as your log in
 
 cleans up locales to save space, runs initially then runs after package installs
 
-## mcelog
+### mcelog
 
 install if you have ecc memory, so you know if things are going well/badly
 
