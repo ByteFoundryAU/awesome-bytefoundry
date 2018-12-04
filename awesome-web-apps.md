@@ -217,3 +217,7 @@ http://cozy.io - Personal finance, photos and documents cloud
 ## Other | Lists of Apps
 
 https://alternativeto.net/list/2384/want-to-start-your-business-these-software-will-make-your-life-easier-
+
+## Print Screen
+
+https://prnt.sc/
