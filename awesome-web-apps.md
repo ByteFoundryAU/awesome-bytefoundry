@@ -100,6 +100,8 @@ See also Scanning
 
 http://fastmail.fm
 
+http://www.mailenable.com - Windows Mail Server Software, Fremium but good features for free.
+
 ## Email Marketing
 
 http://netomail.com.au
