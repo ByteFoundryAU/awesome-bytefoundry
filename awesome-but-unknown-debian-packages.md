@@ -33,6 +33,12 @@ puts exim and system logs out on tty7 and tty8 so if things crash you can see th
 
 control max cpu usage of a process
 
+### dacs
+
+DACS is a light-weight single sign-on and role-based access control system for web servers and server-based software. It is also an authentication and authorization toolkit for programmers. DACS makes secure resource sharing and remote access via the web easier, safer, and more efficient.
+
+ Its not a small thing to install. But it's awesome.
+
 ### debian-goodies
 
    * `checkrestart` - what needs to be restarted since packages were upgradedA
