@@ -194,9 +194,14 @@ keeps track of setuid and setgid files
 
 simple cli command. very handy
 
+### tshark
+
+wireshark ui in terminal
 
 ### unattended-upgrades
+
 see https://wiki.debian.org/UnattendedUpgrades
+
 ### watchdog
 
 This is a simple daemon to feed a system watchdog.
