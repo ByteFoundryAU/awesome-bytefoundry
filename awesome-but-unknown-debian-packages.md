@@ -162,6 +162,10 @@ Like `cat` but gives you a % of how far through the pipe things are
 
 Probably what you want rather than netcat attached to xinetd
 
+### reptyr
+
+Attaches runnng programs to new terminals, for example in to screen
+
 ### rng-tools
 
 Keeps random working well.
