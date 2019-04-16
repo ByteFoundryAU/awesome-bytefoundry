@@ -110,9 +110,17 @@ As the name implies.
 
 Use the following to save: <pre>invoke-rc.d iptables-persistent save</pre>
 
+### iputils-clockdiff
+
+Compares local clock to remote
+
 ### nethogs
 
 Lists network traffic by process / program
+
+### ostinato
+
+Wireshark in reverse - craft packets using the GUI
 
 ### pigz
 
@@ -169,6 +177,14 @@ Attaches runnng programs to new terminals, for example in to screen
 ### rng-tools
 
 Keeps random working well.
+
+Check if your cpu has hardware random function
+
+grep rdrand /proc/cpuinfo
+
+also the /dev/hwrng device should exist
+
+See also haveged
 
 ### rssh or rush
 
