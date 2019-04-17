@@ -186,6 +186,8 @@ also the /dev/hwrng device should exist
 
 See also haveged
 
+See also https://main.lv/writeup/kernel_dev_hwrng.md
+
 ### rssh or rush
 
 Both are shells that allow users to be restricted to perform minimal functions.
