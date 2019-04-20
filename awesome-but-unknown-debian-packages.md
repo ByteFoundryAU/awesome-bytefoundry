@@ -4,6 +4,7 @@
 
    * https://wiki.debian.org/SimplePowerSave
    * https://wiki.debian.org/ReduceDebian
+   * https://www.debian.org/doc/manuals/securing-debian-howto/index.en.html#contents
 
 ## The List
 
