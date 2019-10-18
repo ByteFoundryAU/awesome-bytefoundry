@@ -225,6 +225,10 @@ wireshark ui in terminal
 
 see https://wiki.debian.org/UnattendedUpgrades
 
+### usbguard
+
+a USB device whitelisting tool
+
 ### watchdog
 
 This is a simple daemon to feed a system watchdog.
