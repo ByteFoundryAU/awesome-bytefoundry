@@ -82,6 +82,8 @@ https://airtable.com/ - Database-Spreadsheet Hybrid
 
 https://coda.io/ - Similar to the above
 
+https://www.obvibase.com/ - Create online databases
+
 ## Diagrams
 
 http://draw.io
@@ -186,9 +188,15 @@ http://smartsheet.com - Collaborative working platform
 
 https://www.goodday.work - Project, task, time tracking. Fremium with lots of features on free tier.
 
+https://www.notion.so - The all-in-one workspace for your notes, tasks, wikis, and databases.
+
 ## Remote Desktop
 
-http://anydesk.com
+http://anydesk.com - best alternative to teamviewer
+
+https://www.remoteutilities.com - self-hosted server is free, windows only
+
+http://litemanager.com
 
 ## Reports &amp; Reporting
 
