@@ -105,6 +105,13 @@ Run:
 
 Values &lt; 1000 indicate low entropy and cryptographic applications will block until there is enough entropy available, which eg. could result in slow wlan speed (for WAP)
 
+### inxi
+
+A command line system information tool.
+
+Run:
+`inxi -v8`
+
 ### iptables-persistent
 
 As the name implies.
