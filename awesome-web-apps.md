@@ -136,6 +136,10 @@ https://www.bluejeans.com/ - Interactive, two-way video for teams of any size
 
 https://screenhero.com/
 
+## Communications | VoIP
+
+https://www.microsip.org/ - open source portable SIP softphone based on PJSIP stack for Windows OS (not web based)
+
 ## Communcations | Other
 
 https://pushover.net/ - Send push messages to iphone, android etc
