@@ -30,6 +30,10 @@ nightly backups or mysql / postgresql made insanely easy. no excuses
 
 puts exim and system logs out on tty7 and tty8 so if things crash you can see them
 
+### conserver
+
+Console server software
+
 ### cpulimit
 
 control max cpu usage of a process
