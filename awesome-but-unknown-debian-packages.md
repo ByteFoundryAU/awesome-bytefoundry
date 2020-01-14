@@ -56,6 +56,13 @@ finds and helps remove 'orphaned' packages and config files
 
 (surprise! apt doesnt remove config files when it removes packages, remove with --purge to clean them. i.e. `apt-get --purge remove foo` )
 
+### debsums
+
+Check MD5's of files against what they were in the .deb file when installed
+
+    * `debsums --changed` - reports only changed files
+    * `debsums --changed --config` - reports only changed config files
+
 ### dhcpdump
 
 Like tcpdump, but knows all about dhcp
@@ -68,12 +75,11 @@ convenient way to disk size, partitions, format, uuid etc etc
 
 vmstat, iostat and ifstat all in one... with color!
 
-### debsums
+### duc
 
-Check MD5's of files against what they were in the .deb file when installed
+high-performance disk usage analyzer
 
-    * `debsums --changed` - reports only changed files
-    * `debsums --changed --config` - reports only changed config files
+also duc-nox for servers
 
 ### eatmydata
 
@@ -122,25 +128,13 @@ Use the following to save: <pre>invoke-rc.d iptables-persistent save</pre>
 
 Compares local clock to remote
 
-### miller
-
-Slice and dice CSV files on the CLI
-
-### nethogs
-
-Lists network traffic by process / program
-
-### ostinato
-
-Wireshark in reverse - craft packets using the GUI
-
-### pigz
-
-multi-processor gzip
-
 ### jq
 
 command like json processing
+
+### lftp
+
+Sophisticated command-line FTP/HTTP/BitTorrent client programs
 
 ### libpam-ssh
 
@@ -154,6 +148,10 @@ cleans up locales to save space, runs initially then runs after package installs
 
 install if you have ecc memory, so you know if things are going well/badly
 
+### miller
+
+Slice and dice CSV files on the CLI
+
 ### molly-guard
 
 wraps reboot and halt, so that you dont run them on ssh accidentally
@@ -165,6 +163,14 @@ useful alternative to 'traceroute' - keeps updating in real time
 ### nield
 
 receive notifications from kernel through netlink socket and generate logs related to NIC interfaces
+
+### nethogs
+
+Lists network traffic by process / program
+
+### ostinato
+
+Wireshark in reverse - craft packets using the GUI
 
 ### parallel
 
@@ -256,10 +262,6 @@ Softdog can be used if no hardware watchdog is available, either way you can hav
 <pre>watchdog_module="softdog"
 </pre>
 
-### zopfli
-
-Gzip, but gzips better
-
 ### xclip
 
 pipe to X windows clipboard
@@ -275,6 +277,9 @@ You can now use *setclip* and *getclip*, e.g:
 $ getclip
 foo</pre>
 
+### zopfli
+
+Gzip, but gzips better
 
 ## Stuff to delete
 
