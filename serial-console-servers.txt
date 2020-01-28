@@ -1,0 +1,9 @@
+Just a list.
+
+- Tripp-Lite - https://www.tripplite.com/products/console-servers~22
+- Perle - https://www.perle.com/products/console-server.shtml
+- WTI - https://www.wti.com/c-4-console-server.aspx
+- Opengear - http://opengear.com
+- Lantronix - https://www.lantronix.com/products-class/it-console-server/
+- Moxa - https://www.moxa.com/en/products/industrial-edge-connectivity/serial-device-servers
+- Vertiv Avocent - https://www.vertiv.com/en-us/products-catalog/monitoring-control-and-management/serial-consoles-and-gateways/
