@@ -222,9 +222,15 @@ Stops you doing bad stuff like `rm -rf /`
 
 mibs are 'non-free', dont forget to install them with snmp
 
+### ssldump
+
+Tcpdump with ssl decoding
+
 ### ssmtp
 
 Just forwards system emails to a mail hub
+
+Note: doesnt expand from address to fqdn... annoying
 
 ### sysdig
 
