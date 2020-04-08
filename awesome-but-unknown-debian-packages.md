@@ -218,6 +218,10 @@ Both are shells that allow users to be restricted to perform minimal functions.
 
 Stops you doing bad stuff like `rm -rf /`
 
+### shellcheck
+
+Linter for shell scripts
+
 ### snmp-mibs-downloader
 
 mibs are 'non-free', dont forget to install them with snmp
