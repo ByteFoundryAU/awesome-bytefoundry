@@ -188,6 +188,10 @@ Multi-processor gzip
 
 Like `cat` but gives you a % of how far through the pipe things are
 
+### pwget
+
+Super powered wget
+
 ### redir
 
 Probably what you want rather than netcat attached to xinetd
